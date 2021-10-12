@@ -7,3 +7,10 @@ Japan and Taiwan both adopt a civil law system influenced by continental Europe,
 The usage of Taiwanese law in litigations of Japan has been increasing. To prove this trend, this article takes a statistical analysis with data mining over all published judgements since 1947. By excluding cases involving foreign matters, following are cases citing the Taiwanese law: In case number 2016(Wa)109, the plaintiffs referred to how regulation of leprosy (Hansen’s disease) epidemic had been changed in 1962 to strengthen their claim for national compensation; in cases number 2016(Gyo-U)187 and 2016(Gyo-U)316, the plaintiffs cited J.Y. Interpretation No. 649 of Taiwan that protects the right of equal protection and the right to work; in case number 2019(Wa)267 and other 5 similar cases, the plaintiffs cited the Act for Implementation of J.Y. Interpretation No. 748 to guarantees the freedom of marriage and the right to equality. Through the analysis of the 9 cases mentioned above, this article further explains why the Taiwanese law has been referred by in Japanese litigations, especially the Taiwanese law’s advantages on its protection of fundamental rights.
 
 **Keywords:** Japanese law, citations of Taiwanese law, regulation of leprosy (Hansen’s disease) epidemic, J.Y. Interpretation No. 649 of Taiwan, Act for Implementation of J.Y. Interpretation No. 748 
+
+----------------------------------------------------------------------------
+ * "THE TAPIOKA-WARE LICENSE" (Revision 1):
+ * <LinMinae@gmail.youknow> wrote this file.  As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a tapioka drink in return. Lin Minae
+----------------------------------------------------------------------------
