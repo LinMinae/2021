@@ -9,8 +9,6 @@ The usage of Taiwanese law in litigations of Japan has been increasing. To prove
 **Keywords:** Japanese law, citations of Taiwanese law, regulation of leprosy (Hansen’s disease) epidemic, J.Y. Interpretation No. 649 of Taiwan, Act for Implementation of J.Y. Interpretation No. 748 
 
 ----------------------------------------------------------------------------
- * "THE TAPIOKA-WARE LICENSE" (Revision 1):
- * <LinMinae@gmail.youknow> wrote this file.  As long as you retain this notice you
- * can do whatever you want with this stuff. If we meet some day, and you think
- * this stuff is worth it, you can buy me a tapioka drink in return. Lin Minae
+### "THE TAPIOKA-WARE LICENSE" (Revision 1):
+<LinMinae@gmail.youknow> wrote these files.  As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a tapioka drink in return. Lin Minae
 ----------------------------------------------------------------------------
