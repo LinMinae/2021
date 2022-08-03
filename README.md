@@ -10,5 +10,5 @@ The usage of Taiwanese law in litigations of Japan has been increasing. To prove
 
 ----------------------------------------------------------------------------
 ### "THE TAPIOKA-WARE LICENSE" (Revision 1):
-+ LinMinae@gmail wrote these files.  As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a tapioka drink in return. Lin Minae
++ LinMinae@gmail wrote these files. As long as you retain this notice and author's name, you can do whatever you want with this stuff. If possible, you shall buy me a tapioka drink and a tenth profit in return. Lin Minae
 ----------------------------------------------------------------------------
